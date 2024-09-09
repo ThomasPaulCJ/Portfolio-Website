@@ -28,12 +28,16 @@ HTML Structure: Well-organized HTML5 code for easy readability and maintenance.
 **Usage**
 
 Modify index.html to update content, such as your name, bio, project descriptions, and contact information.
-Edit styles.css to change the appearance, including colors, fonts, and layout.
+
+Edit styles.css to change the appearance, including colors, fonts, and layout.   
+
 Replace main.jpg with your Profile image.
 
+****
 **Contributing**
 
 Feel free to fork this repository and make improvements or suggest changes. If you have any questions or issues, open an issue or submit a pull request.
+
 
 **License**
 
