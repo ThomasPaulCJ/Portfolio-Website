@@ -29,6 +29,7 @@ HTML Structure: Well-organized HTML5 code for easy readability and maintenance.
 
 Modify index.html to update content, such as your name, bio, project descriptions, and contact information.
 Edit styles.css to change the appearance, including colors, fonts, and layout.
+Replace main.jpg with your Profile image.
 
 **Contributing**
 
